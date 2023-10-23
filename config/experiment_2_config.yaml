@@ -1,0 +1,11 @@
+# Konfigurasi Eksperimen 2
+experiment_name: Experiment 2
+model_type: other_models
+dataset: dataset_2
+training_parameters:
+  epochs: 50
+  learning_rate: 0.01
+  batch_size: 64
+data_augmentation: false
+result_path: results/experiment_2/
+log_path: logs/experiment_2/

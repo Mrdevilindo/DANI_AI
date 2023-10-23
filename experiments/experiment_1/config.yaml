@@ -1,0 +1,11 @@
+# Konfigurasi Eksperimen 1
+experiment_name: Experiment 1
+model_type: Self-Aware AI
+dataset_used: Dataset 1
+hyperparameters:
+  learning_rate: 0.001
+  epochs: 50
+  batch_size: 32
+additional_settings:
+  data_augmentation: true
+  early_stopping: true

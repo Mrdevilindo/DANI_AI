@@ -1,0 +1,14 @@
+experiment_name: "Experiment 1"
+model_type: "Self-Aware AI"
+dataset: "Dataset 1"
+training_parameters:
+    epochs: 50
+    learning_rate: 0.001
+    batch_size: 32
+    optimizer: "Adam"
+    loss_function: "Mean Squared Error"
+evaluation_metrics:
+    - accuracy
+    - precision
+    - recall
+    - f1_score

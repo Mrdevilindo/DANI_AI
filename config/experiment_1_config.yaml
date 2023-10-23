@@ -1,0 +1,11 @@
+# Konfigurasi Eksperimen 1
+experiment_name: Experiment 1
+model_type: self_aware_ai
+dataset: dataset_1
+training_parameters:
+  epochs: 100
+  learning_rate: 0.001
+  batch_size: 32
+data_augmentation: true
+result_path: results/experiment_1/
+log_path: logs/experiment_1/

@@ -1,0 +1,11 @@
+# Konfigurasi Data
+dataset_1:
+  dataset_name: Example Dataset 1
+  data_path: data/processed/dataset_1/
+  input_shape: [32, 32, 3]
+  num_classes: 10
+dataset_2:
+  dataset_name: Example Dataset 2
+  data_path: data/processed/dataset_2/
+  input_shape: [64, 64, 3]
+  num_classes: 20

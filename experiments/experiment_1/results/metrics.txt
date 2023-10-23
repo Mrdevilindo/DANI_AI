@@ -1,0 +1,6 @@
+Eksperimen 1 Metrik:
+- Akurasi: 0.85
+- F1-Score: 0.78
+- Waktu Pelatihan: 3 jam
+- CPU Penggunaan: 70%
+- GPU Penggunaan: 90%

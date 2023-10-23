@@ -1,0 +1,4 @@
+# Pengaturan Umum
+app_name: MyAIApp
+app_version: 1.0
+debug_mode: false

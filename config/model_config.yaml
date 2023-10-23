@@ -1,0 +1,8 @@
+# Konfigurasi Model
+model_type: self_aware_ai
+model_parameters:
+  architecture: cnn
+  num_layers: 4
+  hidden_units: [64, 128, 128, 64]
+  dropout: 0.2
+  output_units: 10
